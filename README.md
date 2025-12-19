@@ -2,8 +2,6 @@
 
 **Software Developer | Python & .NET Enthusiast | Blockchain Learner**
 
-[LinkedIn](https://www.linkedin.com/in/Jadhav-G/) |  [GitHub](https://github.com/GaneshJadhavOnGitHub) |  [Personal Website](https://ganeshjadhavongithub.github.io/)
-
 ---
 
 ### Top Skills & Technologies
@@ -45,6 +43,8 @@ Beyond coding, I find immense joy in immersing myself in the enchanting melodies
 ### Connect With Me
 
 I'm always excited to connect with fellow programmers, industry professionals, and anyone passionate about technology. If you have an interesting project, want to discuss programming concepts, or just want to say hi, feel free to reach out!
+
+[LinkedIn](https://www.linkedin.com/in/Jadhav-G/) |  [GitHub](https://github.com/GaneshJadhavOnGitHub) |  [Personal Website](https://ganeshjadhavongithub.github.io/)
 
 **Let's build something amazing together!** 🚀
 
